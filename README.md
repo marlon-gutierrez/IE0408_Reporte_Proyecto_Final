@@ -149,7 +149,7 @@ Durante las pruebas experimentales se utilizó instrumentación de laboratorio, 
 
 El reporte completo del proyecto, incluyendo desarrollo teórico, cálculos, diseño de circuitos, simulaciones, mediciones experimentales y discusión de resultados, se encuentra disponible en:
 
-[`docs/IE0408_Final_Report.pdf`](docs/IE0408_Final_Report.pdf)
+[`IE0408_Final_Report.pdf`](IE0408_Final_Report.pdf)
 
 ## Autores
 
